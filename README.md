@@ -89,7 +89,9 @@ resultados(2).json
 .
 ├── astrocatalog.py     # Código do programa
 ├── catalogo.json       # Banco de dados do catálogo
-├── resultados*.json    # Exportações geradas pelo programa
+├── resultados*.json    # Exportações geradas pelo programa (ignoradas pelo Git)
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
