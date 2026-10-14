@@ -105,7 +105,7 @@ resultados(2).json
 
 ## Versões
 
-- **v1.0**: primeira versão: listar, pesquisar, cadastrar e excluir objetos, com exportação para JSON.
+- **v1.0** - primeira versão: listar, pesquisar, cadastrar e excluir objetos, com exportação para JSON.
 
 ## Ideias para o futuro **(v2.0)**
   
