@@ -25,8 +25,6 @@ Catálogo de objetos astronômicos para o terminal, escrito em Python. Permite l
 python astrocatalog.py
 ```
 
-> Troque `astrocatalog.py` pelo nome real do seu arquivo.
-
 Se o `catalogo.json` não existir, o programa inicia com três objetos de exemplo (Sirius, Andromeda e Nebulosa de Orion) e cria o arquivo no primeiro cadastro ou exclusão.
 
 ## Menu principal
