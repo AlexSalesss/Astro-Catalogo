@@ -117,4 +117,4 @@ resultados(2).json
 
 ## Licença
 
-   Distribuído sob a licença MIT. Veja o arquivo [Licença](license)
+   Distribuído sob a licença MIT. Veja o arquivo [Licença](LICENSE)
