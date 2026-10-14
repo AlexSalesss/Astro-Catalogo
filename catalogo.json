@@ -1,0 +1,458 @@
+[
+    {
+        "nome": "Sirius",
+        "tipo": "Estrela",
+        "constelacao": "Cão Maior",
+        "distancia_anos_luz": 8.6
+    },
+    {
+        "nome": "Andromeda",
+        "tipo": "Galáxia",
+        "constelacao": "Andromeda",
+        "distancia_anos_luz": 2537000
+    },
+    {
+        "nome": "Nebulosa de Orion",
+        "tipo": "Nebulosa",
+        "constelacao": "Orion",
+        "distancia_anos_luz": 1350
+    },
+    {
+        "nome": "Sol",
+        "tipo": "Estrela",
+        "constelacao": "Via Lactéa",
+        "distancia_anos_luz": 1.58e-05
+    },
+    {
+        "nome": "Proxima Centauri",
+        "tipo": "Estrela",
+        "constelacao": "Centauro",
+        "distancia_anos_luz": 4.24
+    },
+    {
+        "nome": "Alfa Centauri",
+        "tipo": "Estrela",
+        "constelacao": "Centauro",
+        "distancia_anos_luz": 4.37
+    },
+    {
+        "nome": "Estrela de Barnard",
+        "tipo": "Estrela",
+        "constelacao": "Ofiúco",
+        "distancia_anos_luz": 5.96
+    },
+    {
+        "nome": "Wolf 359",
+        "tipo": "Estrela",
+        "constelacao": "Leão",
+        "distancia_anos_luz": 7.86
+    },
+    {
+        "nome": "Epsilon Eridani",
+        "tipo": "Estrela",
+        "constelacao": "Erídano",
+        "distancia_anos_luz": 10.5
+    },
+    {
+        "nome": "Procyon",
+        "tipo": "Estrela",
+        "constelacao": "Cão Menor",
+        "distancia_anos_luz": 11.46
+    },
+    {
+        "nome": "Tau Ceti",
+        "tipo": "Estrela",
+        "constelacao": "Baleia",
+        "distancia_anos_luz": 11.9
+    },
+    {
+        "nome": "Altair",
+        "tipo": "Estrela",
+        "constelacao": "Águia",
+        "distancia_anos_luz": 16.73
+    },
+    {
+        "nome": "Vega",
+        "tipo": "Estrela",
+        "constelacao": "Lira",
+        "distancia_anos_luz": 25.04
+    },
+    {
+        "nome": "Fomalhaut",
+        "tipo": "Estrela",
+        "constelacao": "Peixe Austral",
+        "distancia_anos_luz": 25.1
+    },
+    {
+        "nome": "Pollux",
+        "tipo": "Estrela",
+        "constelacao": "Gêmeos",
+        "distancia_anos_luz": 33.8
+    },
+    {
+        "nome": "Arcturus",
+        "tipo": "Estrela",
+        "constelacao": "Boieiro",
+        "distancia_anos_luz": 36.7
+    },
+    {
+        "nome": "TRAPPIST-1",
+        "tipo": "Estrela",
+        "constelacao": "Aquário",
+        "distancia_anos_luz": 40.7
+    },
+    {
+        "nome": "Capella",
+        "tipo": "Estrela",
+        "constelacao": "Cocheiro",
+        "distancia_anos_luz": 42.9
+    },
+    {
+        "nome": "Aldebaran",
+        "tipo": "Estrela",
+        "constelacao": "Touro",
+        "distancia_anos_luz": 65
+    },
+    {
+        "nome": "Régulus",
+        "tipo": "Estrela",
+        "constelacao": "Leão",
+        "distancia_anos_luz": 79
+    },
+    {
+        "nome": "Mizar",
+        "tipo": "Estrela",
+        "constelacao": "Ursa Maior",
+        "distancia_anos_luz": 83
+    },
+    {
+        "nome": "Gacrux",
+        "tipo": "Estrela",
+        "constelacao": "Cruzeiro do Sul",
+        "distancia_anos_luz": 88.6
+    },
+    {
+        "nome": "Achernar",
+        "tipo": "Estrela",
+        "constelacao": "Erídano",
+        "distancia_anos_luz": 139
+    },
+    {
+        "nome": "Spica",
+        "tipo": "Estrela",
+        "constelacao": "Virgem",
+        "distancia_anos_luz": 250
+    },
+    {
+        "nome": "Canopus",
+        "tipo": "Estrela",
+        "constelacao": "Carina",
+        "distancia_anos_luz": 310
+    },
+    {
+        "nome": "Acrux",
+        "tipo": "Estrela",
+        "constelacao": "Cruzeiro do Sul",
+        "distancia_anos_luz": 321
+    },
+    {
+        "nome": "Polaris",
+        "tipo": "Estrela",
+        "constelacao": "Ursa Menor",
+        "distancia_anos_luz": 433
+    },
+    {
+        "nome": "Betelgeuse",
+        "tipo": "Estrela",
+        "constelacao": "Orion",
+        "distancia_anos_luz": 550
+    },
+    {
+        "nome": "Antares",
+        "tipo": "Estrela",
+        "constelacao": "Escorpião",
+        "distancia_anos_luz": 550
+    },
+    {
+        "nome": "Rigel",
+        "tipo": "Estrela",
+        "constelacao": "Orion",
+        "distancia_anos_luz": 860
+    },
+    {
+        "nome": "Deneb",
+        "tipo": "Estrela",
+        "constelacao": "Cisne",
+        "distancia_anos_luz": 2600
+    },
+    {
+        "nome": "Eta Carinae",
+        "tipo": "Estrela",
+        "constelacao": "Carina",
+        "distancia_anos_luz": 7500
+    },
+    {
+        "nome": "Proxima Centauri b",
+        "tipo": "Exoplaneta",
+        "constelacao": "Centauro",
+        "distancia_anos_luz": 4.24
+    },
+    {
+        "nome": "TRAPPIST-1e",
+        "tipo": "Exoplaneta",
+        "constelacao": "Aquário",
+        "distancia_anos_luz": 40.7
+    },
+    {
+        "nome": "51 Pegasi b",
+        "tipo": "Exoplaneta",
+        "constelacao": "Pégaso",
+        "distancia_anos_luz": 50.9
+    },
+    {
+        "nome": "HD 209458 b",
+        "tipo": "Exoplaneta",
+        "constelacao": "Pégaso",
+        "distancia_anos_luz": 159
+    },
+    {
+        "nome": "Kepler-452b",
+        "tipo": "Exoplaneta",
+        "constelacao": "Cisne",
+        "distancia_anos_luz": 1400
+    },
+    {
+        "nome": "Saco de Carvão",
+        "tipo": "Nebulosa",
+        "constelacao": "Cruzeiro do Sul",
+        "distancia_anos_luz": 600
+    },
+    {
+        "nome": "Nebulosa da Hélice",
+        "tipo": "Nebulosa",
+        "constelacao": "Aquário",
+        "distancia_anos_luz": 650
+    },
+    {
+        "nome": "Nebulosa do Haltere",
+        "tipo": "Nebulosa",
+        "constelacao": "Raposa",
+        "distancia_anos_luz": 1360
+    },
+    {
+        "nome": "Nebulosa Cabeça de Cavalo",
+        "tipo": "Nebulosa",
+        "constelacao": "Orion",
+        "distancia_anos_luz": 1375
+    },
+    {
+        "nome": "Nebulosa do Anel",
+        "tipo": "Nebulosa",
+        "constelacao": "Lira",
+        "distancia_anos_luz": 2300
+    },
+    {
+        "nome": "Nebulosa América do Norte",
+        "tipo": "Nebulosa",
+        "constelacao": "Cisne",
+        "distancia_anos_luz": 2590
+    },
+    {
+        "nome": "Nebulosa do Olho de Gato",
+        "tipo": "Nebulosa",
+        "constelacao": "Dragão",
+        "distancia_anos_luz": 3300
+    },
+    {
+        "nome": "Nebulosa da Lagoa",
+        "tipo": "Nebulosa",
+        "constelacao": "Sagitário",
+        "distancia_anos_luz": 4100
+    },
+    {
+        "nome": "Nebulosa Trífida",
+        "tipo": "Nebulosa",
+        "constelacao": "Sagitário",
+        "distancia_anos_luz": 5200
+    },
+    {
+        "nome": "Nebulosa da Roseta",
+        "tipo": "Nebulosa",
+        "constelacao": "Unicórnio",
+        "distancia_anos_luz": 5200
+    },
+    {
+        "nome": "Nebulosa do Caranguejo",
+        "tipo": "Nebulosa",
+        "constelacao": "Touro",
+        "distancia_anos_luz": 6500
+    },
+    {
+        "nome": "Nebulosa da Águia",
+        "tipo": "Nebulosa",
+        "constelacao": "Serpente",
+        "distancia_anos_luz": 7000
+    },
+    {
+        "nome": "Nebulosa da Carina",
+        "tipo": "Nebulosa",
+        "constelacao": "Carina",
+        "distancia_anos_luz": 8500
+    },
+    {
+        "nome": "Nebulosa da Tarântula",
+        "tipo": "Nebulosa",
+        "constelacao": "Dourado",
+        "distancia_anos_luz": 160000
+    },
+    {
+        "nome": "Híades",
+        "tipo": "Aglomerado Estelar",
+        "constelacao": "Touro",
+        "distancia_anos_luz": 153
+    },
+    {
+        "nome": "Plêiades",
+        "tipo": "Aglomerado Estelar",
+        "constelacao": "Touro",
+        "distancia_anos_luz": 444
+    },
+    {
+        "nome": "Presépio",
+        "tipo": "Aglomerado Estelar",
+        "constelacao": "Câncer",
+        "distancia_anos_luz": 577
+    },
+    {
+        "nome": "Caixa de Joias",
+        "tipo": "Aglomerado Estelar",
+        "constelacao": "Cruzeiro do Sul",
+        "distancia_anos_luz": 6440
+    },
+    {
+        "nome": "47 Tucanae",
+        "tipo": "Aglomerado Estelar",
+        "constelacao": "Tucano",
+        "distancia_anos_luz": 13000
+    },
+    {
+        "nome": "Ômega Centauri",
+        "tipo": "Aglomerado Estelar",
+        "constelacao": "Centauro",
+        "distancia_anos_luz": 15800
+    },
+    {
+        "nome": "Aglomerado de Hércules",
+        "tipo": "Aglomerado Estelar",
+        "constelacao": "Hércules",
+        "distancia_anos_luz": 22200
+    },
+    {
+        "nome": "Cygnus X-1",
+        "tipo": "Buraco Negro",
+        "constelacao": "Cisne",
+        "distancia_anos_luz": 7200
+    },
+    {
+        "nome": "Sagitário A*",
+        "tipo": "Buraco Negro",
+        "constelacao": "Sagitário",
+        "distancia_anos_luz": 26700
+    },
+    {
+        "nome": "Cassiopeia A",
+        "tipo": "Remanescente de Supernova",
+        "constelacao": "Cassiopeia",
+        "distancia_anos_luz": 11000
+    },
+    {
+        "nome": "Pulsar do Caranguejo",
+        "tipo": "Pulsar",
+        "constelacao": "Touro",
+        "distancia_anos_luz": 6500
+    },
+    {
+        "nome": "Grande Nuvem de Magalhães",
+        "tipo": "Galáxia",
+        "constelacao": "Dourado",
+        "distancia_anos_luz": 160000
+    },
+    {
+        "nome": "Pequena Nuvem de Magalhães",
+        "tipo": "Galáxia",
+        "constelacao": "Tucano",
+        "distancia_anos_luz": 200000
+    },
+    {
+        "nome": "Galáxia do Triângulo",
+        "tipo": "Galáxia",
+        "constelacao": "Triângulo",
+        "distancia_anos_luz": 2730000
+    },
+    {
+        "nome": "Galáxia do Escultor",
+        "tipo": "Galáxia",
+        "constelacao": "Escultor",
+        "distancia_anos_luz": 11000000
+    },
+    {
+        "nome": "Galáxia de Bode",
+        "tipo": "Galáxia",
+        "constelacao": "Ursa Maior",
+        "distancia_anos_luz": 12000000
+    },
+    {
+        "nome": "Galáxia do Charuto",
+        "tipo": "Galáxia",
+        "constelacao": "Ursa Maior",
+        "distancia_anos_luz": 12000000
+    },
+    {
+        "nome": "Centaurus A",
+        "tipo": "Galáxia",
+        "constelacao": "Centauro",
+        "distancia_anos_luz": 13000000
+    },
+    {
+        "nome": "Galáxia Olho Negro",
+        "tipo": "Galáxia",
+        "constelacao": "Cabeleira de Berenice",
+        "distancia_anos_luz": 17000000
+    },
+    {
+        "nome": "Galáxia Roda de Fogo",
+        "tipo": "Galáxia",
+        "constelacao": "Ursa Maior",
+        "distancia_anos_luz": 21000000
+    },
+    {
+        "nome": "Galáxia do Redemoinho",
+        "tipo": "Galáxia",
+        "constelacao": "Cães de Caça",
+        "distancia_anos_luz": 23000000
+    },
+    {
+        "nome": "Galáxia do Sombreiro",
+        "tipo": "Galáxia",
+        "constelacao": "Virgem",
+        "distancia_anos_luz": 29000000
+    },
+    {
+        "nome": "Galáxia do Girassol",
+        "tipo": "Galáxia",
+        "constelacao": "Cães de Caça",
+        "distancia_anos_luz": 29000000
+    },
+    {
+        "nome": "Messier 87",
+        "tipo": "Galáxia",
+        "constelacao": "Virgem",
+        "distancia_anos_luz": 53500000
+    },
+    {
+        "nome": "3C 273",
+        "tipo": "Quasar",
+        "constelacao": "Virgem",
+        "distancia_anos_luz": 2400000000
+    }
+]
