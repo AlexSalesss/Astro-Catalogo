@@ -110,4 +110,4 @@ resultados(2).json
 
 ## Licença
 
-Defina aqui a licença do projeto (por exemplo, MIT).
+- MIT License
