@@ -117,4 +117,4 @@ resultados(2).json
 
 ## Licença
 
-   Distribuído sob a licença MIT. Veja o arquivo ![Licença](https://img.shields.io/badge/licença-MIT-yellow)
+   Distribuído sob a licença MIT. Veja o arquivo [Licença](license)
