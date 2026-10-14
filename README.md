@@ -102,8 +102,13 @@ resultados(2).json
 - **Senha de administrador.** A senha está definida no próprio código (`SENHA_ADMIN`). Altere-a antes de compartilhar ou publicar o projeto.
 - **Distâncias aproximadas.** Os valores do catálogo são aproximados e servem para fins educacionais.
 
-## Ideias para o futuro
 
+## Versões
+
+- **v1.0**: primeira versão: listar, pesquisar, cadastrar e excluir objetos, com exportação para JSON.
+
+## Ideias para o futuro **(v2.0)**
+  
 - Busca ignorando acentos e por correspondência parcial
 - Edição de objetos já cadastrados
 - Paginação ao listar catálogos grandes
